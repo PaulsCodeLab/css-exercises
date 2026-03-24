@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+#id2 {
+    color: rgb(41, 41, 177);
+    font-size: 36px;
+}
+
+#id4 {
+    background-color: #77d877;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p
+{
+    background-color: hsl(0, 75%, 73%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+p#p3{
+    font-size: 24px;
+}
